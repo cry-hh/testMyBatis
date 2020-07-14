@@ -34,6 +34,9 @@
         <!-- 批量加载mapper映射文件：指定mapper接口所在的包名，mybatis为其生成代理对象 -->
         <mappers>
             <package name="com.igeek.ch03.mapper" />
+            <package name="com.igeek.ch04.sql" />
+            <package name="com.igeek.ch05" />
+            <package name="com.igeek.ch06" />
         </mappers>
 
 </configuration>
